@@ -49,7 +49,7 @@ https://operaxis-ooj7i5kyd-yusukey354s-projects.vercel.app/login
 [テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
 
 ## アプリの改善案
-[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1fgynpBKhx8zaNkMweeYVQl52bP6Z8dJZOmmY8MHXjQM/edit?usp=sharing)
+[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/15id37P5LLiq2xTsL69gwKxeaVq70L-Wu4XooxUxumRw/edit?gid=1797697990#gid=1797697990)
 
 ## 備考
 [ESLintの実行結果_GitHub Actions](https://github.com/yusukey354/testapp1/actions/runs/15519197960/job/43690145546)
