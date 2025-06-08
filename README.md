@@ -14,7 +14,7 @@ week9終盤以降で用いる、ポートフォリオ用GitHubの例です
 ## サイトURL
 
 デプロイした後のアプリのメインページURLを貼りましょう。  
-https://blogapp-forlecture.vercel.app/
+https://operaxis-ooj7i5kyd-yusukey354s-projects.vercel.app/login
 
 
 「画面中部のゲストログインボタンから、メールアドレスとパスワードを入力せずにログインできます。」といった仕様を作れれば、面接官も試しやすいと思います。
