@@ -6,17 +6,17 @@ Next.jsとSupabaseを用いたKPIの可視化ダッシュボードアプリで�
 
 
 ## サイトイメージ
-メインページの画像を貼れると良いです。
 
 ![アプリ画面](https://github.com/yusukey354/worx_app/blob/main/docs/dashboard.png?raw=true)
 
 ## サイトURL
 
-デプロイした後のアプリのメインページURLを貼りましょう。  
+  
 https://operaxis-ooj7i5kyd-yusukey354s-projects.vercel.app/login
+テスト用アカウント
+test@example.com/password123
 
-
-「画面中部のゲストログインボタンから、メールアドレスとパスワードを入力せずにログインできます。」といった仕様を作れれば、面接官も試しやすいと思います。
+「上記アカウントでログインできます。」
 
 ## 使用技術
 - フロントエンド：Next.js 15.3
@@ -42,7 +42,7 @@ https://operaxis-ooj7i5kyd-yusukey354s-projects.vercel.app/login
 - 指標自動計算
 - データ可視化
 
-※空白を2つ開けて「-」から始めることで、箇条書きが2段目になります。三段目は空白を4つ開ければ可能です。
+
 
 ## テスト・修正の設計及び実施書
 [テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1ph7XaLu4a2k_kDBEpj_ySTBPETJvg5143ZMk5G90DUA/edit?usp=sharing)
