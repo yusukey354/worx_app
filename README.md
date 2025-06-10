@@ -27,14 +27,14 @@ test@example.com/password123
 - テスト・デバッグ：DevTools（Chrome）
 - CI/CD：GitHub Actions（ESLint）
 
-※箇条書きは「-」のあとに空白を入れて本文を始めることで可能です。
+
 
 ## 設計ドキュメント
 [要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1yBssPgoUI_8TMwVZA2hWOLQj3-l7oirLB2FQ1YJgCww/edit?usp=sharing)
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
 
-※[]の中に表示文を書き、その後ろで()の中にURLを入れればハイパーリンク化できます。
+
 
 ## 機能一覧
 - ログイン機能（メールアドレスとパスワード）
