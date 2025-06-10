@@ -1,10 +1,9 @@
-# PortfolioExample_WorX_ENGINEER-CLASS
-week9終盤以降で用いる、ポートフォリオ用GitHubの例です
+# operaxis　
+KPI可視化ダッシュボードです。
 
 ## アプリ概要
-例：Next.jsとSupabaseを用いたブログアプリです。  
-↑  
-面接官が一目で分かるように、使用技術とアプリ概要を端的に記述しましょう。
+Next.jsとSupabaseを用いたKPIの可視化ダッシュボードアプリです。  
+
 
 ## サイトイメージ
 メインページの画像を貼れると良いです。
@@ -21,7 +20,7 @@ https://operaxis-ooj7i5kyd-yusukey354s-projects.vercel.app/login
 
 ## 使用技術
 - フロントエンド：Next.js 15.3
-- バックエンド：Next.js 15.3、~Python 3.13.3（FastAPI0.115.12）~
+- バックエンド：Next.js 15.3、
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
@@ -38,7 +37,7 @@ https://operaxis-ooj7i5kyd-yusukey354s-projects.vercel.app/login
 ※[]の中に表示文を書き、その後ろで()の中にURLを入れればハイパーリンク化できます。
 
 ## 機能一覧
-- ユーザー登録、ログイン機能（メールアドレスとパスワード）
+- ログイン機能（メールアドレスとパスワード）
 - 権限管理
 - 指標自動計算
 - データ可視化
